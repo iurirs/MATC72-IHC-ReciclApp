@@ -1,5 +1,7 @@
 __Universidade Federal da Bahia__
+<br>
 **Departamento de Ciência da Computação**
+<br>
 **MATC72 - Interação Humano Computador - IHC**
 <br>
 **Discentes:** Iuri Santos, Luís Fernando Santos e Silas Cardoso
