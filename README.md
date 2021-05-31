@@ -15,6 +15,10 @@ __Universidade Federal da Bahia__
 <p align="center"><b>Protótipo Funcional da Interface</b></p>
 
 <br><br>
+<b>Link versão interativa do protótipo:</b>
+\
+[ReciclApp](https://www.figma.com/proto/a6hV62d9JEcPMcXP0WXuQ1/ReciclApp---Prot%C3%B3tipo?node-id=1%3A493&scaling=min-zoom&page-id=2%3A241)
+\
 <b>Formulário de Avaliação:</b>
 \
 [Google Forms](https://forms.gle/irnLuBgV7dNSRVsF7)
