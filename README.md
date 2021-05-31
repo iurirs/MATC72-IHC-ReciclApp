@@ -7,11 +7,14 @@ __Universidade Federal da Bahia__
 
 **Docente:** Vaninha Santos
 
-<center><img src="https://media.discordapp.net/attachments/830524475988508673/848380809118482432/LOGO_RECICLAPP.png" alt="" width="200"/></center>
 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/830524475988508673/848380809118482432/LOGO_RECICLAPP.png" alt="" width="200"/>
+</p>
 <center><p><b>Projeto Prático - Etapa 03</b></p></center>
 <center><p><b>Protótipo Funcional da Interface</b></p></center>
 
 <br><br>
 <b>Formulário de Avaliação:</b>
-aaaaaa
+\
+[Google Forms](https://forms.gle/irnLuBgV7dNSRVsF7)
